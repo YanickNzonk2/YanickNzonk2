@@ -16,9 +16,9 @@ Here are some ideas to get you started:-->
 ## <font style="vertical-align: inherit;"><font style="vertical-align: inherit;">☎</font></font>    Comment me contacter pour un poste de travail ou une collaboration sur des projets de développement?
 - Je suis ouvert à toutes les questions que des employeurs éventuels pouraient me poser sur mes parcourts professionnel et académique.
   ### Contact pour me joindre :
-   - Nom complet : Yanick Aimé Nzonkwo
-   - Tel.: +1 (438) 530-3408
-   - email: yanicknzonk@yahoo.fr
+   - *Nom complet* : Yanick Aimé Nzonkwo
+   - *Tel.* : +1 (438) 530-3408
+   - *email* : yanicknzonk@yahoo.fr
   
 
 
